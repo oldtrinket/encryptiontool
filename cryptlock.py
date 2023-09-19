@@ -1,6 +1,6 @@
 import os
 from cryptography.fernet import Fernet
-import tkinter as 
+import tkinter 
 from tkinter import filedialog
 from tkinter import ttk
 from tkinter import messagebox
