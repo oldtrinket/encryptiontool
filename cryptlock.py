@@ -5,7 +5,7 @@ from tkinter import filedialog
 from tkinter import ttk
 from tkinter import messagebox
 import base64
-import hashlib
+
 
 # Define the GUI window
 root = tk.Tk()
