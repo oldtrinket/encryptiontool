@@ -130,5 +130,5 @@ def decrypt_folder():
     messagebox.showinfo('Decryption Complete', 'The folder has been decrypted.')
 
 # Start the GUI event loop
-root.mainloop
+root.mainloop()
 
